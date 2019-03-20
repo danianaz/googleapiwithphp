@@ -1,0 +1,15 @@
+{
+  "name": "googleapiclient/composer",
+  "description": "This project is for creating a composer project with google client API with php",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dania Naz",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "google/apiclient": "v2.0.0"
+  }
+}
